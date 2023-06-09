@@ -8,3 +8,4 @@
 * [A paper with presistent homology application to our field](https://arxiv.org/abs/2302.05600)
 * [Feature Importance](https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/)
     
+*Dynamic Time Warping* "shifts" time series in time and compares time series.
